@@ -1,0 +1,37 @@
+ Requirements:
+
+ Hardware requirements:
+
+1.Processor: Intel core 2 duo processor 2.00GHZ
+2.Hard disk drive:29.72GB
+3.RAM:3GB
+
+Software requirements
+1.Software: CODE BLOCKS
+2.compiler: GCC compiler
+3.Langague used: C
+
+Functional Requirements
+ 1. Add new FIR records
+Admin should have the ability to add new records. Admin should add various
+information such as convict’s detail
+2.Search, delete and view record
+Admin should be able to search through the records using either name or
+convict’s id. Deletion of records can also be done using convict’s id. View of
+complete records should be provided to the admin.
+
+Non-Functional requirements
+1.Portability
+System running on one platform can be easily converted to run on another
+platform.
+L&T Technology Services
+4
+2.Reliability
+The ability of the system to behave consistently in an acceptable manner when
+operating within the environment for which the system was intended.
+3.Availability
+The system should be available at all times, meaning the user can access it all
+the time, only restricted by the down time of the server on which the system
+runs.
+4.Security
+Secure access of confidential data (convict’s information)

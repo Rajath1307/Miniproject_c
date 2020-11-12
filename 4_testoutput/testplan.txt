@@ -1,0 +1,13 @@
+TEST PLAN:
+Primarily login is the factor of testing as login is the security check mainly, then
+we can into various factors such are
+1. Add record:The option is to add the convicts details such it has almost all
+his details required for the police about criminals.
+2. Search record:This gives the option to check if details are already there in
+the record are not.
+3. Modify record:This function allows the user to modify the details of the
+convicts.
+4. List record:This function allows the user to view the record.
+5. Delete record:This function allows the user to delete specific records by
+using prisoner name or id.
+6. Exit:This function terminates the application.

@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1601876891 source:g:\104885\test1\unit\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1601874622 g:\104885\test1\unit\unity.h
+	"unity_internals.h"
+
+1601874622 g:\104885\test1\unit\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1605101351 source:g:\104885\test1\test\testlog.c
+	"unity.h"
+	"testlog.h"
+
+1605099966 g:\104885\test1\test\testlog.h
+
+1605102610 source:g:\104885\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"testlog.h"
+
+1605177106 source:g:\104885\test1\3_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"testlog.h"
+
+1601876891 source:g:\104885\test1\3_implementation\unit\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1601874622 g:\104885\test1\3_implementation\unit\unity.h
+	"unity_internals.h"
+
+1601874622 g:\104885\test1\3_implementation\unit\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1605177228 source:g:\104885\test1\3_implementation\test\testlog.c
+	"unity.h"
+	"testlog.h"
+
+1605099966 g:\104885\test1\3_implementation\test\testlog.h
+
